@@ -101,3 +101,8 @@ body {
 .section-link:hover {
     text-decoration: underline;
 }
+
+footer {
+    font-size: 6px;
+    font:'Orbitron';
+}
